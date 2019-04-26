@@ -1,3 +1,1 @@
-/give Jacinda_Ardern minecraft:diamond_pickaxe{display: {Name:"{\"text\":\"	\\u00A7aPhilospher's Pickaxe\",\"italic\":false}", Lore:["Test"]},Damage:1558, Enchantments:[{id:fortune,lvl:2}], RepairCost: 1000}
-
 replaceitem entity @a[nbt={SelectedItem:{id:"minecraft:chicken_spawn_egg"}}] weapon.mainhand minecraft:diamond_pickaxe{display: {Name:"{\"text\":\"	\\u00A7aPhilospher's Pickaxe\",\"italic\":false}"},Damage:1558, Enchantments:[{id:fortune,lvl:2}], RepairCost: 1000}
