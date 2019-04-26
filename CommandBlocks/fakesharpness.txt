@@ -1,0 +1,6 @@
+
+
+
+
+
+/give @p minecraft:enchanted_book{display:{Name:"{\"text\":\"Enchanted Book\",\"color\":\"yellow\",\"italic\":false}",Lore:["{\"text\":\"Sharpess I\",\"color\":\"yellow\", \"italic\":false}"]}} 1

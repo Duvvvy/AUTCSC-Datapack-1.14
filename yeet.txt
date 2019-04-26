@@ -1,9 +1,0 @@
-replaceitem entity @a[nbt={SelectedItem:{id:"minecraft:cow_spawn_egg"}}] weapon.mainhand enchanted_book{StoredEnchantments:[{id:sharpness,lvl:1}]} 1
-
-replaceitem entity @a[nbt={SelectedItem:{id:"minecraft:pig_spawn_egg"}}] weapon.mainhand diamond_helmet{display:{Name:"{\"text\":\"	\\u00A7aTarnhelm\",\"italic\":false}"}, Enchantments:[{id:protection,lvl:1},{id:fire_protection,lvl:1},{id:aqua_affinity,lvl:3}], RepairCost: 1000} 1
-
-/give Jacinda_Ardern minecraft:diamond_pickaxe{display: {Name:"{\"text\":\"	\\u00A7aPhilospher's Pickaxe\",\"italic\":false}", Lore:["Test"]},Damage:1558, Enchantments:[{id:fortune,lvl:2}], RepairCost: 1000}
-replaceitem entity @a[nbt={SelectedItem:{id:"minecraft:chicken_spawn_egg"}}] weapon.mainhand minecraft:diamond_pickaxe{display: {Name:"{\"text\":\"	\\u00A7aPhilospher's Pickaxe\",\"italic\":false}"},Damage:1558, Enchantments:[{id:fortune,lvl:2}], RepairCost: 1000}
-
-
-/give @p minecraft:enchanted_book{display:{Name:"{\"text\":\"Enchanted Book\",\"color\":\"yellow\",\"italic\":false}",Lore:["{\"text\":\"Sharpess I\",\"color\":\"yellow\", \"italic\":false}"]}} 1

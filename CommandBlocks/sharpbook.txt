@@ -1,0 +1,5 @@
+Use in repeating command block at spawn.
+
+Transforms any cow_spawn_egg into a sharpness book (20tps).
+
+replaceitem entity @a[nbt={SelectedItem:{id:"minecraft:cow_spawn_egg"}}] weapon.mainhand enchanted_book{StoredEnchantments:[{id:sharpness,lvl:1}]} 1

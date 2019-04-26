@@ -1,0 +1,12 @@
+Transforms any held pig_spawn_egg into a Tarnhelm.
+
+Use in repeating command block.
+
+
+Tarnhelm has
+    Protection 1
+    Fire Protection 1
+    Aqua Affinity 3
+    and cannot be repaired by a player.
+    
+replaceitem entity @a[nbt={SelectedItem:{id:"minecraft:pig_spawn_egg"}}] weapon.mainhand diamond_helmet{display:{Name:"{\"text\":\"	\\u00A7aTarnhelm\",\"italic\":false}"}, Enchantments:[{id:protection,lvl:1},{id:fire_protection,lvl:1},{id:aqua_affinity,lvl:3}], RepairCost: 1000} 1
