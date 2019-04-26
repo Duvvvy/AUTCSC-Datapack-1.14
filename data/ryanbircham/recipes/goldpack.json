@@ -1,0 +1,11 @@
+{
+	"type":"crafting_shaped",
+	"pattern":["###","#X#","###"],
+	"key":{
+		"#":{"item":"minecraft:gold_ore"},
+		"X":{"item":"minecraft:coal"}
+	},
+	"result":{
+		"item":"minecraft:gold_ingot", "count": 10
+	}
+}
